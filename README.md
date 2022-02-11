@@ -1,3 +1,23 @@
+## Create react app
+
+```
+npx create-reacr-app . --template redux
+```
+
+## Install mui
+
+```
+npm install @mui/material @emotion/react @emotion/styled
+```
+
+## Install mui icons
+
+```npm install @mui/icons-material```
+
+## Install firebase packages
+
+```npm install firebase```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
