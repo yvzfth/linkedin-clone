@@ -1,7 +1,7 @@
 ## Create react app
 
 ```
-npx create-reacr-app . --template redux
+npx create-react-app . --template redux
 ```
 
 ## Install mui
@@ -12,11 +12,38 @@ npm install @mui/material @emotion/react @emotion/styled
 
 ## Install mui icons
 
-```npm install @mui/icons-material```
+```
+npm install @mui/icons-material
+```
 
 ## Install firebase packages
 
-```npm install firebase```
+```
+npm install firebase
+```
+
+## Install react flip move animation library
+
+```
+npm i react-flip-move
+```
+## Deploy the App
+
+``
+firebase login
+``
+
+``
+firebase init
+``
+
+``
+npm run build
+``
+
+``
+firebase deploy
+``
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 

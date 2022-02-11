@@ -24,3 +24,6 @@
   margin-bottom: 0px;
   padding-bottom: 0px;
 }
+.avatar:hover {
+  background-color: rgb(34, 72, 143) !important;
+}
